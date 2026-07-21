@@ -8,7 +8,7 @@ print(a.rstrip("!"))
 print(a.replace("Faizan", "Abbas"))
 print(a.split(" "))
 blogHeading = "introduction t0 js"
-print(blogHeading.capitalize)
+print(blogHeading.capitalize())
 
 str1 = "Welcome to the Console !!!"
 print(str1.endswith("to", 4, 10))
