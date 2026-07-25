@@ -23,4 +23,3 @@ while(count > 0):
     count = count - 1
 else:
     print("Hey: am Syed Faizan Husain Zaidi ")
-
